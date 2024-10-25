@@ -1,9 +1,12 @@
 # Web Application Basics
 
-Room Description: 
+Room Description:
+
 `Learn the basics of web applications: HTTP, URLs, request methods, response codes, and headers.`
+
 Number of Task:
 `11`
+
 Status:
 `Incomplete`
 
