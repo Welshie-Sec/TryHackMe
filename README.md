@@ -9,3 +9,6 @@ I'm still trying to figure out a way to properly categorize and treat how I cove
 
 
 # Walkthrough Rooms
+
+# Profile
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/welshie.png)](https://tryhackme.com/p/welshie)
